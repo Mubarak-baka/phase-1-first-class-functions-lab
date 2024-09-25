@@ -25,8 +25,6 @@ const returnFirstTwoDrivers=function(drivers){
 
  }
  
- console.log(selectDifferentDrivers(drivers,returnFirstTwoDrivers));
- console.log(selectDifferentDrivers(drivers,returnLastTwoDrivers))
-
+ 
 
 
